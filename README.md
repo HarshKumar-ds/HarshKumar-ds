@@ -25,7 +25,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a >
+  <a>
+    pointer-events: none;
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c"
@@ -40,8 +41,7 @@
       alt="cplusplus"
       width="40"
       height="40"
-      
-    />
+      />
   </a>
   <a >
     <img
@@ -54,7 +54,6 @@
   </a>
   <a>
     <img
-      pointer-events: none;
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
       width="40"
